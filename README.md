@@ -1,6 +1,6 @@
 # GeoSearch Autocomplete
 
-A take-home assignment for Aibo Frontend.  
+A practice project for Mantine UI.
 This project implements a reusable, debounced GeoSearch Autocomplete component using the Open-Meteo Geocoding API.
 
 ## 🛠 Tech Stack
