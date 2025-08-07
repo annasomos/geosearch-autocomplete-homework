@@ -14,12 +14,12 @@ This project implements a reusable, debounced GeoSearch Autocomplete component u
 
 ## ✨ Features
 
-- 🔍 Autocomplete for geographical locations using Open-Meteo API
-- 📉 Filters cities by population over 500,000
-- ⏱ Debounced input (300ms) to limit API calls
-- ⚠️ Graceful loading, error, and no-results states
-- 🎯 Custom API query using Axios and TanStack Query
-- 🧼 Clean and accessible UI with Mantine
+🔍 Autocomplete for geographical locations using Open-Meteo API
+📉 Filters cities by population over 500,000
+⏱ Debounced input (500 ms) to limit API calls
+⚠️ Graceful loading, error, and no-results states
+🎯 Custom API query using Axios and TanStack Query
+🧼 Clean and accessible UI with Mantine
 
 ## 🚀 Getting Started
 
