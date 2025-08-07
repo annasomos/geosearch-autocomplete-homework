@@ -26,7 +26,7 @@ This project implements a reusable, debounced GeoSearch Autocomplete component u
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/annasomos/geo-search-autocomplete.git
+git clone https://github.com/annasomos/geosearch-autocomplete-homework.git
 cd geo-search-autocomplete
 ```
 ### 2. Install Dependencies
