@@ -58,7 +58,7 @@ export default function GeoSearchAutoComplete({
         }}
         error={error?.message}
         placeholder="Start searching location..."
-        label="Find your dream location with population more than 500,000 people!"
+        label="Find your dream location with over 500,000 inhabitants!"
         onClear={() => onChange("")}
         clearable
       />
