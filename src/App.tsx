@@ -48,6 +48,7 @@ export default function App() {
           justifyContent: "center",
           alignItems: "center",
           height: "100vh",
+          backgroundImage: "linear-gradient(45deg, var(--mantine-color-indigo-0), var(--mantine-color-indigo-4))"
         }}
       >
         <Card
